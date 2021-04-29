@@ -1,4 +1,4 @@
-### Hi there, I' am Leonardo Melo 👋
+### Hey there, I' am Leonardo Melo 👋
 
 <!--
 **leomd11/leomd11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
