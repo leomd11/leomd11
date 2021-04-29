@@ -1,3 +1,5 @@
+![Astronauta Size](https://user-images.githubusercontent.com/46456284/116629549-db1f1c80-a927-11eb-8bcb-d41370f3d778.jpg)
+
 ## Hey there, I' am Leonardo Melo 👋
 ***
 
