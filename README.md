@@ -1,4 +1,5 @@
-### Hey there, I' am Leonardo Melo 👋
+## Hey there, I' am Leonardo Melo 👋
+***
 
 - 🔭 I'am a student of Mechanical Production Engineering at UFPB - Brazil.
 - 🌱 I’m currently learning about Business Intelligence and Data Engineering.
